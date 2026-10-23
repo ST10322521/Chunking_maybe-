@@ -1,0 +1,4 @@
+/home/anon/Class/INSY7315/POE/PART2/FileTransfer/project2-cpp-file-transfer/build/CMakeFiles/file_transfer.dir
+/home/anon/Class/INSY7315/POE/PART2/FileTransfer/project2-cpp-file-transfer/build/CMakeFiles/file_transfer_app.dir
+/home/anon/Class/INSY7315/POE/PART2/FileTransfer/project2-cpp-file-transfer/build/CMakeFiles/edit_cache.dir
+/home/anon/Class/INSY7315/POE/PART2/FileTransfer/project2-cpp-file-transfer/build/CMakeFiles/rebuild_cache.dir

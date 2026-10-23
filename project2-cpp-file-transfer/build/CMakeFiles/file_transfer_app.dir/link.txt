@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/file_transfer_app.dir/link.d CMakeFiles/file_transfer_app.dir/app/main.cpp.o -o file_transfer_app  libfile_transfer.a /usr/lib/libcurl.so /usr/lib/libcurl.so

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWjhR+skQic=",
+  "success": true,
+  "projectFilePath": "/home/anon/Class/INSY7315/POE/PART2/FileTransfer/project1-aspnet-api/FileTransfer.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/anon/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

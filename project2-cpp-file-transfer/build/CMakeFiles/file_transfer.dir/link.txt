@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfile_transfer.a CMakeFiles/file_transfer.dir/src/file_transfer.cpp.o
+/usr/bin/ranlib libfile_transfer.a
